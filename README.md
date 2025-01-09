@@ -9,8 +9,9 @@ Skills: Kotlin /Android SDK /Android Studio/RESTful APIs /UI/UX principles/ Prob
 - 🔭 I’m currently working on SIMEC System Limited 
 - 🌱 I’m currently learning Jetpack compose 
 - 👯 I’m looking to collaborate on Git hub 
-- ⚡ Fun fact: 
-💡 Always learning the latest trends in Android development. 🤝 Open to collaborations on meaningful Android projects. 
+### ⚡ Fun fact: 
+-💡 Always learning the latest trends in Android development. 
+🤝 Open to collaborations on meaningful Android projects. 
 ✨ Believe in writing clean, reusable, and efficient code. 
 
 
