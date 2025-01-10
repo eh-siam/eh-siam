@@ -7,7 +7,7 @@ I’m an Android App Developer passionate about crafting intuitive, scalable app
 #### Skills:
 Kotlin /Android SDK /Android Studio/RESTful APIs /UI/UX principles/ Problem-solving
 
-- 📖 Completed Graduation in Computer science in 2020
+- 📖 Completed Graduation in Computer science in 2022
 - 🔭 I’m currently working on SIMEC System Limited 
 - 🌱 I’m currently learning Jetpack compose 
 - 👯 I’m looking to collaborate on Git hub 
