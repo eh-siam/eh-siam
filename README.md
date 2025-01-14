@@ -9,7 +9,7 @@ Kotlin /Android SDK /Android Studio/RESTful APIs /UI/UX principles/ Problem-solv
 
 - 📖 Completed Graduation in Computer science in 2022
 - 🔭 I’m currently working on SIMEC System Limited 
-- 🌱 learning Jetpack compose 
+- 🌱 currently learning Jetpack compose 
 - 👯 looking to collaborate on Git hub 
 #### ⚡ Fun fact: 
 - 💡 Always learning the latest trends in Android development. 
