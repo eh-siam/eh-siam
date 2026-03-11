@@ -15,9 +15,9 @@ I’m an Android App Developer passionate about building intuitive and scalable 
 
 💡 Always exploring the latest trends in Android development
 
-###**🛠 Skills**
+## **🛠 Skills**
 
-##Languages & Frameworks
+ **Languages & Frameworks**
 
 Kotlin
 
