@@ -68,7 +68,7 @@ Clean Code Practices
 
 GitHub: https://github.com/eh-siam
 
-LinkedIn: https://linkedin.com/in/eh-siam
+LinkedIn: https://www.linkedin.com/in/emdadul-haque-siam/
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="40">](https://www.linkedin.com/in/eh-siam)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="40">](https://www.facebook.com/ehsiam.farhan)
