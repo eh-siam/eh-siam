@@ -5,7 +5,7 @@
 I’m an Android App Developer passionate about crafting intuitive, scalable apps using Kotlin & Jetpack. Skilled in Firebase, MVVM, & Material Design. 🚀
 
 #### Skills:
-Kotlin /Android SDK /Android Studio/RESTful APIs /UI/UX principles/ Problem-solving
+Kotlin /Jetpack Compose /KMP /Android SDK /Android Studio/RESTful APIs /UI/UX principles/ Problem-solving
 
 - 📖 Completed Graduation in Computer science in 2022
 - 🔭  working on SIMEC System Limited 
