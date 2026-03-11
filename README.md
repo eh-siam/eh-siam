@@ -4,7 +4,7 @@ Hi 👋 I'm Emdadul Haque Siam
 
 I’m an Android App Developer passionate about building intuitive and scalable mobile applications using Kotlin and modern Android technologies. I enjoy turning ideas into real-world apps with clean architecture and efficient code. 🚀
 
-## **🚀 About Me**
+# **🚀 About Me**
 
 📱 Android Developer focused on modern mobile development
 
@@ -16,7 +16,7 @@ I’m an Android App Developer passionate about building intuitive and scalable 
 
 💡 Always exploring the latest trends in Android development
 
-## **🛠 Skills**
+# **🛠 Skills**
 
  **Languages & Frameworks**
 
@@ -26,13 +26,13 @@ Jetpack Compose
 
 Kotlin Multiplatform (KMP)
 
-**Android Development**
+## **Android Development**
 
 Android SDK
 
 Android Studio
 
-**Architecture & Backend**
+## **Architecture & Backend**
 
 MVVM
 
@@ -40,23 +40,23 @@ Firebase
 
 RESTful APIs
 
-**Design & Principles**
+## **Design & Principles**
 
 Material Design
 
 UI/UX Principles
 
-**Other Skills**
+## **Other Skills**
 
 Problem Solving
 
 Clean Code Practices
 
-### **🎓 Education**
+# **🎓 Education**
 
 📖 Bachelor’s Degree in Computer Science – 2022
 
-### **⚡ Fun Facts**
+# **⚡ Fun Facts**
 
 ✨ I believe in writing clean, reusable, and efficient code
 
@@ -64,7 +64,7 @@ Clean Code Practices
 
 🚀 Passionate about building apps that solve real-world problems
 
-### **🌐 Connect With Me**
+# **🌐 Connect With Me**
 
 GitHub: https://github.com/eh-siam
 
