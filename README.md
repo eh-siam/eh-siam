@@ -2,7 +2,7 @@
 #### Android Developer
 
 
-I’m an Android App Developer passionate about crafting intuitive, scalable apps using Kotlin & Jetpack. Skilled in Firebase, MVVM, & Material Design. 🚀
+I’m an Android App Developer passionate about building intuitive and scalable mobile applications using Kotlin and modern Android technologies. I enjoy turning ideas into real-world apps with clean architecture and efficient code.🚀
 
 #### Skills:
 Kotlin /Jetpack Compose /KMP /Android SDK /Android Studio/RESTful APIs /UI/UX principles/ Problem-solving
