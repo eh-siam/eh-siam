@@ -3,7 +3,7 @@ Android Developer 📱
 
 I’m an Android App Developer passionate about building intuitive and scalable mobile applications using Kotlin and modern Android technologies. I enjoy turning ideas into real-world apps with clean architecture and efficient code. 🚀
 
-###🚀 About Me
+## **🚀 About Me**
 
 📱 Android Developer focused on modern mobile development
 
@@ -15,7 +15,7 @@ I’m an Android App Developer passionate about building intuitive and scalable 
 
 💡 Always exploring the latest trends in Android development
 
-###🛠 Skills
+###**🛠 Skills**
 
 ##Languages & Frameworks
 
