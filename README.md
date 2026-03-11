@@ -9,7 +9,7 @@ Kotlin /Jetpack Compose /KMP /Android SDK /Android Studio/RESTful APIs /UI/UX pr
 
 - 📖 Completed Graduation in Computer science in 2022
 - 🔭  working on SIMEC System Limited 
-- 🌱 currently learning Jetpack compose 
+- 🌱 currently learning KMP
 - 👯 looking to collaborate on Git hub 
 #### ⚡ Fun fact: 
 - 💡 Always learning the latest trends in Android development. 
